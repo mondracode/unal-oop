@@ -1,0 +1,64 @@
+Harvest a Field
+# first street, first avenue, num streets, num avenues showing 
+0 0 10 13
+# intersection size (in pixels) 
+38
+# things
+   becker.robots.Thing 4 1
+   becker.robots.Thing 4 2
+   becker.robots.Thing 4 3
+   becker.robots.Thing 4 4
+   becker.robots.Thing 4 5
+becker.robots.Thing 5 1
+   becker.robots.Thing 5 2
+   becker.robots.Thing 5 3
+   becker.robots.Thing 5 4
+   becker.robots.Thing 5 5
+becker.robots.Thing 6 1
+   becker.robots.Thing 6 2
+   becker.robots.Thing 6 3
+   becker.robots.Thing 6 4
+   becker.robots.Thing 6 5
+becker.robots.Thing 7 1
+   becker.robots.Thing 7 2
+   becker.robots.Thing 7 3
+   becker.robots.Thing 7 4
+   becker.robots.Thing 7 5
+becker.robots.Thing 8 1
+   becker.robots.Thing 8 2
+   becker.robots.Thing 8 3
+   becker.robots.Thing 8 4
+   becker.robots.Thing 8 5
+
+# Segundo cuarto
+
+   becker.robots.Thing 1 7
+   becker.robots.Thing 1 8
+   becker.robots.Thing 1 9
+   becker.robots.Thing 1 10
+   becker.robots.Thing 1 11
+becker.robots.Thing 2 7
+   becker.robots.Thing 2 8
+   becker.robots.Thing 2 9
+   becker.robots.Thing 2 10
+   becker.robots.Thing 2 11
+becker.robots.Thing 3 7
+   becker.robots.Thing 3 8
+   becker.robots.Thing 3 9
+   becker.robots.Thing 3 10
+   becker.robots.Thing 3 11
+becker.robots.Thing 4 7
+   becker.robots.Thing 4 8
+   becker.robots.Thing 4 9
+   becker.robots.Thing 4 10
+   becker.robots.Thing 4 11
+becker.robots.Thing 5 7
+   becker.robots.Thing 5 8
+   becker.robots.Thing 5 9
+   becker.robots.Thing 5 10
+   becker.robots.Thing 5 11
+
+# wall
+
+
+
